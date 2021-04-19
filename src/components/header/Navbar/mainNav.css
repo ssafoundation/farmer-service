@@ -1,0 +1,15 @@
+.main-navbar {
+    background: #404a3d;
+}
+
+.main-navbar a {
+    color: #fff !important;
+}
+
+ul {
+    margin-bottom: 0;
+}
+
+.main-navbar ul li {
+    display: inline-block;
+}

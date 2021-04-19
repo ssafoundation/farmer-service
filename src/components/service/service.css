@@ -1,0 +1,51 @@
+/* ==================== */
+
+.service-main-wrap {
+    padding: 50px 0;
+    background: #f0f8ffad;
+}
+
+.service-title {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.service-title h2 {
+    font-family: 'Mina', sans-serif !important;
+    font-size: 60px;
+}
+
+.service-item {
+    text-align: center;
+    width: 100%;
+    box-shadow: 0px 0px 10px 0px rgb(0 123 255 / 25%);
+    margin-bottom: 30px;
+    border-radius: 10px;
+    padding: 15px 10px;
+    transition: .3s;
+    background: #fff;
+}
+
+.service-item:hover {
+    box-shadow: 0px 0px 10px 0px rgb(0 123 255 / 44%);
+    transition: .3s;
+}
+
+.service-item img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    padding: 10px;
+    border: 2px dashed #007bff;
+    transition: .3s;
+    margin-bottom: 15px;
+}
+
+.service-item p {
+    font-size: 13px;
+}
+
+.service-item:hover>img {
+    transform: rotate(45deg);
+    transition: .3s;
+}

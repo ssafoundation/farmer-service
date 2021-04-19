@@ -1,0 +1,47 @@
+/* =================== */
+
+.get_quote_one_form_inner {
+    background: #ffffff;
+    position: relative;
+    display: block;
+    padding: 50px 0;
+    border-radius: 5px;
+}
+
+.input_box input[type="text"] {
+    height: 80px;
+    width: 100%;
+    border: none;
+    background: #f5f0e9;
+    padding: 0 40px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    outline: none;
+}
+
+.input_box textarea {
+    height: 170px;
+    width: 100%;
+    background: #f5f0e9;
+    padding: 30px 40px 30px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+}
+
+.get_quote__btn {
+    background: #5b8c51;
+    margin-top: 10px;
+    color: #ffffff;
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+}
+
+.get_quote_one_form_inner h2 {
+
+    margin-bottom: 35px;
+    text-align: center;
+    font-family: 'Mina', sans-serif !important;
+    font-size: 60px;
+}
