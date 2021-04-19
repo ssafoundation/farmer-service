@@ -1,6 +1,6 @@
 # Farmer Service
 
-Here is the live [link : Food Bazar](https://food-bazar-project.web.app/).
+Here is the live [link :Farmer Service](https://farmers-services.web.app/).
 
 ## How to setup in local desktop
 
